@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <title>Chen Hong-Wei | Personal Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Chen Hong-Wei's personal website, including education, competition experience, programming skills, and interests">
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  <body>
+    <header>
+      <h1>陳泓瑋</h1>
+      <h2>Master's Student at National Yang Ming Chiao Tung University</h2>
+      <img src="your_profile_image.jpg" alt="Chen Hong-Wei" style="width: 200px; border-radius: 10px;">
+    </header>
+    
+    <main>
+      <section>
+        <h2>📚 Education</h2>
+        <ul>
+          <li>National Chung Cheng University, Dual Major in Business Administration and Finance </li>
+          <li>Graduated with Dean’s Award </li>
+          <li>Member of TMBA Stock Research Club</li>
+        </ul>
+      </section>
+      
+      <section>
+        <h2>🏆 Competition Experience</h2>
+        <ul>
+          <li>1st Place, 2nd Jinli Seed Cup Financial Research Report Competition</li>
+          <li>1st Place, 112th Academic Year CCU Securities Research Society Final Project</li>
+          <li>2nd Place, 2024 NFAC National Financial Forum Industry Management Competition</li>
+        </ul>
+      </section>
+      
+      <section>
+        <h2>💻 Programming Skills</h2>
+        <ul>
+          <li>Base Programming Using SAS 9.4 Certification</li>
+          <li>Google Data Analytics Certificate</li>
+        </ul>
+      </section>
+      
+      <section>
+        <h2>🎵 Interests</h2>
+        <ul>
+          <li>Playing Volleyball</li>
+          <li>Fingerstyle Guitar</li>
+        </ul>
+      </section>
+    </main>
+    
+    <footer>
+      <p>📧 Email: wayne011022@gmail.com</p>
+      <p>🔗 <a href="https://github.com/waynechen5">GitHub</a></p>
+    </footer>
+  </body>
+</html>
+
